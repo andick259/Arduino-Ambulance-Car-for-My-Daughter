@@ -1,0 +1,1 @@
+This is my project for my daughter for parade bike cycle to celebrate independence day of indonesia. There is function play song 17 Agustus 1945 when the button was pushed. Another function able to open the door of car smoothly by press the button, also able to turn on the Sirine Buzzer and Ambulance Light.
